@@ -96,7 +96,10 @@
     }
     
     .bg-featured { background-color: #355070; }
-    .bg-light { background-color: #edc4b3}
+    .bg-light { 
+        background-color: #edc4b3;
+        
+    }
     
     
     
@@ -219,15 +222,17 @@
     /* Background Images */
     
     .bg-cocktails { background-image: url('/images/cocktails.jpg') }
-    .bg-fork-short-glass { 
-        background-image: url('/images/fork-short-glass.jpg');
-        background-position: 50% 35%;
-    }
-    
-    .bg-red-wine-pour {
-        background-image: url('/images/red-wine-pour.jpg');
+    .bg-chicken-plate { 
+        background-image: url('/images/chicken-plate.jpg');
         background-position: 50% 57%;
     }
+    
+    .bg-app-plate {
+        background-image: url('/images/app-plate.jpg');
+        background-position: 50% 57%;
+    }
+
+    
     
     /* Buttons and Forms */
     
