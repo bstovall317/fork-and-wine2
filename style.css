@@ -114,10 +114,11 @@
     }
     
     
-    /* .bg-image { background-image: url('/images/cocktails.jpg'); } */
+     /* .bg-image { background-image: url('/images/cocktails.jpg'); }  */
     
     
     /* Image Style */
+    
      .bg-image { 
         background-image: url('/images/.bg-cocktails.jpg');
         background-size: cover;
