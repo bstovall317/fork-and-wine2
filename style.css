@@ -95,21 +95,35 @@
         color: white;
     }
     
-    .bg-featured { background-color: #355070; }
-    .bg-light { 
-        background-color: #edc4b3;
-        
+    .bg-featured { background-color: #6D597A; }
+    .bg-light    { background-color: #edc4b3; }
+    
+    .bg-cocktails { 
+        background-image: url('/images/cocktails.jpg'); 
+    }
+
+    .bg-chicken-plate { 
+        background-image: url('/images/chicken-plate.jpg');
+        background-position: 50% 57%;
+    }
+
+    
+    .bg-app-plate {
+        background-image: url('/images/app-plate.jpg');
+        background-position: 50% 57%;
     }
     
     
+    /* .bg-image { background-image: url('/images/cocktails.jpg'); } */
+    
     
     /* Image Style */
-    .bg-image {
+     .bg-image { 
         background-image: url('/images/.bg-cocktails.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         min-height: 10rem;
-    }
+    } 
     
     .landscape     { padding-bottom: 65%; }
     .portrait-tall { padding-bottom: 175%; }
@@ -221,16 +235,7 @@
     
     /* Background Images */
     
-    .bg-cocktails { background-image: url('/images/cocktails.jpg') }
-    .bg-chicken-plate { 
-        background-image: url('/images/chicken-plate.jpg');
-        background-position: 50% 57%;
-    }
     
-    .bg-app-plate {
-        background-image: url('/images/app-plate.jpg');
-        background-position: 50% 57%;
-    }
 
     
     
